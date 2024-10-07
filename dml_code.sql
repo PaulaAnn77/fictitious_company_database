@@ -1,9 +1,5 @@
 -- ------------------------------------------------------------------------------
 --  Author: Paula Farebrother
---  References:
---      Tutor: Stefan Binder
---      Module: Databases
---      University: Abertay
 --  20-04-2024 (created)
 --  06-10-2024 (last modified)
 -- ------------------------------------------------------------------------------
