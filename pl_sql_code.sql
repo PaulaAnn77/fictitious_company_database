@@ -1,11 +1,11 @@
 -- ------------------------------------------------------------------------------
---  PL/SQL code by Paula Farebrother, 2309693
---  All code adapted from provided lecture material unless otherwise stated: 
+-- Author: Paula Farebrother
+--  References:
 --      Tutor: Stefan Binder
 --      Module: databases
 --      University: Abertay
 --  21-04-2024 (created)
---  26-04-2024 (last modified)
+--  07-10-2024 (last modified)
 -- ------------------------------------------------------------------------------
 
 -----------------------------------------------------------------------------
